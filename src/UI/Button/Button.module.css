@@ -1,0 +1,13 @@
+.send_edit {
+    background: url(../../../assests/images/icon-check.png) no-repeat;
+}
+
+.disable_edit {
+    background: url(../../../assests/images/icon-cancel.png) no-repeat;
+}
+
+button {
+    width: 22px;
+    height: 20px;
+    border-color: white;
+}
